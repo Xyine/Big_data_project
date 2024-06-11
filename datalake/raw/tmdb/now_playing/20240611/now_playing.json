@@ -1,0 +1,408 @@
+{
+    "dates": {
+        "maximum": "2024-06-12",
+        "minimum": "2024-05-01"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/fqv8v6AycXKsivp1T5yKtLbGXce.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 653346,
+            "original_language": "en",
+            "original_title": "Kingdom of the Planet of the Apes",
+            "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+            "popularity": 5180.717,
+            "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+            "release_date": "2024-05-08",
+            "title": "Kingdom of the Planet of the Apes",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 905
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ga4OLm4qLxPqKLMzjJlqHxVjst3.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 573435,
+            "original_language": "en",
+            "original_title": "Bad Boys: Ride or Die",
+            "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+            "popularity": 2862.77,
+            "poster_path": "/nP6RliHjxsz4irTKsxe8FRhKZYl.jpg",
+            "release_date": "2024-06-05",
+            "title": "Bad Boys: Ride or Die",
+            "video": false,
+            "vote_average": 7.576,
+            "vote_count": 112
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z121dSTR7PY9KxKuvwiIFSYW8cf.jpg",
+            "genre_ids": [
+                10752,
+                28,
+                18
+            ],
+            "id": 929590,
+            "original_language": "en",
+            "original_title": "Civil War",
+            "overview": "In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.",
+            "popularity": 2241.454,
+            "poster_path": "/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg",
+            "release_date": "2024-04-10",
+            "title": "Civil War",
+            "video": false,
+            "vote_average": 7.0,
+            "vote_count": 1434
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oavbmL3iddJUmC8nQjL6bLHwAP4.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 719221,
+            "original_language": "en",
+            "original_title": "Tarot",
+            "overview": "When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.",
+            "popularity": 1834.14,
+            "poster_path": "/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg",
+            "release_date": "2024-05-01",
+            "title": "Tarot",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 416
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3TNSoa0UHGEzEz5ndXGjJVKo8RJ.jpg",
+            "genre_ids": [
+                878,
+                28
+            ],
+            "id": 614933,
+            "original_language": "en",
+            "original_title": "Atlas",
+            "overview": "A brilliant counterterrorism analyst with a deep distrust of AI discovers it might be her only hope when a mission to capture a renegade robot goes awry.",
+            "popularity": 1575.877,
+            "poster_path": "/bcM2Tl5HlsvPBnL8DKP9Ie6vU4r.jpg",
+            "release_date": "2024-05-23",
+            "title": "Atlas",
+            "video": false,
+            "vote_average": 6.729,
+            "vote_count": 681
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 746036,
+            "original_language": "en",
+            "original_title": "The Fall Guy",
+            "overview": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "popularity": 1212.302,
+            "poster_path": "/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+            "release_date": "2024-04-24",
+            "title": "The Fall Guy",
+            "video": false,
+            "vote_average": 7.285,
+            "vote_count": 1137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uVu2fBc114un7F1GD76RBouWyBP.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                18,
+                12,
+                35
+            ],
+            "id": 1022789,
+            "original_language": "en",
+            "original_title": "Inside Out 2",
+            "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+            "popularity": 1293.16,
+            "poster_path": "/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg",
+            "release_date": "2024-06-12",
+            "title": "Inside Out 2",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 19
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/shrwC6U8Bkst9T9J7fr1A50n6x6.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 786892,
+            "original_language": "en",
+            "original_title": "Furiosa: A Mad Max Saga",
+            "overview": "As the world fell, young Furiosa is snatched from the Green Place of Many Mothers and falls into the hands of a great Biker Horde led by the Warlord Dementus. Sweeping through the Wasteland they come across the Citadel presided over by The Immortan Joe. While the two Tyrants war for dominance, Furiosa must survive many trials as she puts together the means to find her way home.",
+            "popularity": 986.382,
+            "poster_path": "/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+            "release_date": "2024-05-22",
+            "title": "Furiosa: A Mad Max Saga",
+            "video": false,
+            "vote_average": 7.665,
+            "vote_count": 809
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1m1rXopfNDVL3UMiv6kriYaJ3yE.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80,
+                878
+            ],
+            "id": 882059,
+            "original_language": "en",
+            "original_title": "Boy Kills World",
+            "overview": "When his family is murdered, a deaf-mute named Boy escapes to the jungle and is trained by a mysterious shaman to repress his childish imagination and become an instrument of death.",
+            "popularity": 769.762,
+            "poster_path": "/25JskXmchcYwj3jHRmcPm738MpB.jpg",
+            "release_date": "2024-04-24",
+            "title": "Boy Kills World",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 264
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xQkotnzv12fm9FF29if1cBLsyU3.jpg",
+            "genre_ids": [
+                53,
+                27,
+                28,
+                9648
+            ],
+            "id": 1001311,
+            "original_language": "fr",
+            "original_title": "Sous la Seine",
+            "overview": "In the Summer of 2024, Paris is hosting the World Triathlon Championships on the Seine for the first time. Sophia, a brilliant scientist, learns from Mika, a young environmental activist, that a large shark is swimming deep in the river. To avoid a bloodbath at the heart of the city, they have no choice but to join forces with Adil, the Seine river police commander.",
+            "popularity": 853.796,
+            "poster_path": "/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg",
+            "release_date": "2024-06-05",
+            "title": "Under Paris",
+            "video": false,
+            "vote_average": 5.7,
+            "vote_count": 295
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vWzJDjLPmycnQ42IppEjMpIhrhc.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                12
+            ],
+            "id": 748783,
+            "original_language": "en",
+            "original_title": "The Garfield Movie",
+            "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+            "popularity": 638.279,
+            "poster_path": "/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg",
+            "release_date": "2024-04-30",
+            "title": "The Garfield Movie",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 155
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2aBDIqdSchYcPnkXqMRctRfYjSV.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1264966,
+            "original_language": "en",
+            "original_title": "Silence of the Prey",
+            "overview": "In a desperate bid to secure a future for her child, an undocumented immigrant mother takes a caretaker job. Unbeknownst to her, the elderly man conceals a horrifying truth.",
+            "popularity": 600.033,
+            "poster_path": "/xRKmXt7036pVZ0OMNgzLsGa26pX.jpg",
+            "release_date": "2024-05-14",
+            "title": "Silence of the Prey",
+            "video": false,
+            "vote_average": 2.167,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5Eip60UDiPLASyKjmHPMruggTc4.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 1041613,
+            "original_language": "en",
+            "original_title": "Immaculate",
+            "overview": "An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.",
+            "popularity": 643.983,
+            "poster_path": "/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg",
+            "release_date": "2024-03-20",
+            "title": "Immaculate",
+            "video": false,
+            "vote_average": 6.288,
+            "vote_count": 577
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rZ8VxBH8QRHGQi9YztBRm3eAsxL.jpg",
+            "genre_ids": [
+                14,
+                10751
+            ],
+            "id": 1279104,
+            "original_language": "en",
+            "original_title": "The Legend of Catclaws Mountain",
+            "overview": "Mindy adopts Angel, a high-spirited pony that\u2014according to legend\u2014will lead its owner to gold hidden in the nearby mountains. When Angel is kidnapped by a mad treasure hunter, Mindy and her school friends head into the hills to rescue the pony and hunt for the lost gold. But Mindy meets a mountain man that warns her the treasure is part of an ancient curse\u2014if they remove the gold, they'll destroy the beautiful forest.",
+            "popularity": 486.9,
+            "poster_path": "/4T3Gz4ZC8H6kaEpq56S4j3mI40L.jpg",
+            "release_date": "2024-05-27",
+            "title": "The Legend of Catclaws Mountain",
+            "video": false,
+            "vote_average": 4.667,
+            "vote_count": 3
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k9X79JC2dDTcSpxuKJ3p2Teq3oZ.jpg",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "id": 1025463,
+            "original_language": "pt",
+            "original_title": "Bi\u00f4nicos",
+            "overview": "When the progress of robotics makes Paralympic athletes the new sports stars, Maria dreams of competing against her sister. For that, she will have to enter a world of crime and violence.",
+            "popularity": 756.643,
+            "poster_path": "/xVCYzdBE6lo3sUFK1OMZnXvpGtT.jpg",
+            "release_date": "2024-05-28",
+            "title": "Bionic",
+            "video": false,
+            "vote_average": 5.464,
+            "vote_count": 55
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/k37Ccgu05Am1xxgN5GaW0HX9Kkl.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1087388,
+            "original_language": "en",
+            "original_title": "Sting",
+            "overview": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+            "popularity": 507.996,
+            "poster_path": "/zuSAZIG1PSrxFwPeAlGtg9LTwxo.jpg",
+            "release_date": "2024-04-12",
+            "title": "Sting",
+            "video": false,
+            "vote_average": 6.357,
+            "vote_count": 119
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sI6uCeF8mUlZx22mFfHSi9W3XQ9.jpg",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "id": 843527,
+            "original_language": "en",
+            "original_title": "The Idea of You",
+            "overview": "Sol\u00e8ne, a 40-year-old single mom, begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. When Sol\u00e8ne must step in to chaperone her teenage daughter's trip to the Coachella Music Festival after her ex bails at the last minute, she has a chance encounter with Hayes and there is an instant, undeniable spark. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Sol\u00e8ne soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+            "popularity": 479.829,
+            "poster_path": "/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg",
+            "release_date": "2024-05-02",
+            "title": "The Idea of You",
+            "video": false,
+            "vote_average": 7.415,
+            "vote_count": 1000
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rmNlWyez5cniGtXkgixG1ezdqVk.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1093995,
+            "original_language": "en",
+            "original_title": "Chief of Station",
+            "overview": "After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.",
+            "popularity": 427.519,
+            "poster_path": "/uuA01PTtPombRPvL9dvsBqOBJWm.jpg",
+            "release_date": "2024-05-02",
+            "title": "Chief of Station",
+            "video": false,
+            "vote_average": 5.256,
+            "vote_count": 45
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oZDRuGHhe5uY8wBqFJcJZT9kdvJ.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 1086747,
+            "original_language": "en",
+            "original_title": "The Watchers",
+            "overview": "When 28-year-old artist Mina finds shelter after getting stranded in an expansive, untouched forest in western Ireland, she unknowingly becomes trapped alongside three strangers that are watched and stalked by mysterious creatures each night.",
+            "popularity": 472.629,
+            "poster_path": "/vZVEUPychdvZLrTNwWErr9xZFmu.jpg",
+            "release_date": "2024-06-06",
+            "title": "The Watchers",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 61
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1111873,
+            "original_language": "en",
+            "original_title": "Abigail",
+            "overview": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
+            "popularity": 358.432,
+            "poster_path": "/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+            "release_date": "2024-04-18",
+            "title": "Abigail",
+            "video": false,
+            "vote_average": 6.815,
+            "vote_count": 683
+        }
+    ],
+    "total_pages": 249,
+    "total_results": 4968
+}
