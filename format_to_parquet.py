@@ -1,3 +1,4 @@
+# json_to_parquet.py
 import os
 from datetime import date
 from pyspark.sql import SparkSession
@@ -5,13 +6,13 @@ from pyspark.sql.functions import col
 
 # Define paths
 current_day = date.today().strftime("%Y%m%d")
-base_path = r"C:\Users\desag\OneDrive\Documents\A2\advance_database_and_big_data\big_data_project\datalake"
+base_path = "/home/xyine/code_project/big_data_project/datalake"
 
-tmdb_formatted_path = os.path.join(base_path, f"formatted\\tmdb\\NowPlaying\\{current_day}\\now_playing.json")
-tvmaze_formatted_path = os.path.join(base_path, f"formatted\\tvmaze\\new_series\\{current_day}\\new_series.json")
+tmdb_formatted_path = os.path.join(base_path, f"formatted/tmdb/NowPlaying/{current_day}/now_playing.json")
+tvmaze_formatted_path = os.path.join(base_path, f"formatted/tvmaze/new_series/{current_day}/new_series.json")
 
-tmdb_parquet_path = os.path.join(base_path, f"parquet\\tmdb\\NowPlaying\\{current_day}")
-tvmaze_parquet_path = os.path.join(base_path, f"parquet\\tvmaze\\new_series\\{current_day}")
+tmdb_parquet_path = os.path.join(base_path, f"parquet/tmdb/NowPlaying/{current_day}")
+tvmaze_parquet_path = os.path.join(base_path, f"parquet/tvmaze/new_series/{current_day}")
 
 # Initialize Spark session
 spark = SparkSession.builder \
@@ -55,11 +56,13 @@ def json_to_parquet(json_path, parquet_path):
     except Exception as e:
         print(f"Error processing {json_path}: {e}")
 
-# Convert TMDB formatted JSON to Parquet
-json_to_parquet(tmdb_formatted_path, tmdb_parquet_path)
+# To be used in Airflow
+def json_to_parquet_task(**kwargs):
+    # Convert TMDB formatted JSON to Parquet
+    json_to_parquet(tmdb_formatted_path, tmdb_parquet_path)
 
-# Convert TVMaze formatted JSON to Parquet
-json_to_parquet(tvmaze_formatted_path, tvmaze_parquet_path)
+    # Convert TVMaze formatted JSON to Parquet
+    json_to_parquet(tvmaze_formatted_path, tvmaze_parquet_path)
 
-# Stop Spark session
-spark.stop()
+    # Stop Spark session
+    spark.stop()
